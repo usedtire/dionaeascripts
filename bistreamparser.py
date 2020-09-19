@@ -8,7 +8,7 @@ Reads the directory passed and then subfolders looking for dionaea bistream file
 
 __author__      = "Jesse G. Lands"
 __email__       = "jesselands@jesselands.com"
-__github__      =
+__github__      = "https://github.com/usedtire"
 
 import sys,os,time
 from os import listdir
